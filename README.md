@@ -9,4 +9,6 @@ This project is for converting image to text using pytesseract rest API
 
 3.pip install -r req.txt
 
-4.python app.py
+4.sudo apt-get install tesseract-ocr (linux)
+
+5.python app.py
